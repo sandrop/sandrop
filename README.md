@@ -1,5 +1,5 @@
 Hi, I’m @sandrop
-- 👀 I’m interested in technology especially how modern data platforms and AI can amplify each other
+- 👀 I’m interested in technology especially how modern data platforms, Agents and LLMs (local and cloud) can amplify each other
 - 💬 Ask me about GCP, Snowflake, DataOps, FinOps, LLMOps
 - 💞️ I’m looking to collaborate on building something
 - ❓ I can help if you need fractional CDO/SVP/Head of Data
